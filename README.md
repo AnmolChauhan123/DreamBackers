@@ -28,3 +28,11 @@ npm run release
 yarn release
 Join our Discord!
 For any questions, suggestions, join our discord at https://discord.gg/thirdweb.
+
+The transactions are made on a test network of etherium so no real currency is involved.
+
+You must have Metamask chrome extension in your pc in order to create a campaign and donate to one.
+
+Im using the Mumbai faucet in this.
+
+Deployed Link - https://papaya-nougat-0fdce4.netlify.app/
